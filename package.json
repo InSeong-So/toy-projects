@@ -1,6 +1,7 @@
 {
   "name": "nextstep-clean-code-2nd",
   "version": "1.0.0",
+  "packageManager": "yarn@3.2.0",
   "description": "넥스트스텝 클린코드 2기 미션 총집합 저장소",
   "private": true,
   "workspaces": [
