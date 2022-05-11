@@ -57,7 +57,7 @@
 
 <h2>🏧 미션3 : 자판기 🏧</h2>
 
-<img src="./img/03.png" width="600"/>
+<img src="./img/04.png" width="600"/>
 
 <p><a href="https://inseong-so.github.io/js-vending-machine/">구현 페이지</a></p>
 <p><a href="https://github1s.com/inseong-so/js-vending-machine/">저장소 코드</a></p>
