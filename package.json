@@ -4,7 +4,7 @@
   "packageManager": "yarn@4.5.0",
   "private": true,
   "workspaces": [
-    "apps/*",
+    "apps/vanilla-js/nextstep-clean-code/*",
     "packages/*"
   ],
   "scripts": {
