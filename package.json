@@ -1,10 +1,10 @@
 {
-  "name": "nextstep-clean-code-2nd",
+  "name": "toy-projects",
   "version": "1.0.0",
   "packageManager": "yarn@4.5.0",
-  "description": "넥스트스텝 클린코드 2기 미션 총집합 저장소",
   "private": true,
   "workspaces": [
+    "apps/*",
     "packages/*"
   ],
   "scripts": {
