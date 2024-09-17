@@ -1,7 +1,6 @@
 {
   "name": "@vanilla/js-vending-machine",
   "version": "1.0.0",
-  "packageManager": "yarn@3.2.0",
   "main": "./src/index.js",
   "scripts": {
     "test": "cypress run --browser chrome"

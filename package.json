@@ -1,14 +1,14 @@
 {
   "name": "nextstep-clean-code-2nd",
   "version": "1.0.0",
-  "packageManager": "yarn@3.2.0",
+  "packageManager": "yarn@4.5.0",
   "description": "넥스트스텝 클린코드 2기 미션 총집합 저장소",
   "private": true,
   "workspaces": [
     "packages/*"
   ],
   "scripts": {
-    "test": "yarn workspaces foreach foreach -vpi run test"
+    "test": "yarn workspaces foreach -Avpi run test"
   },
   "repository": {
     "type": "git",
@@ -26,11 +26,11 @@
   },
   "homepage": "https://github.com/InSeong-So/nextstep-clean-code-2nd#readme",
   "devDependencies": {
-    "@babel/eslint-parser": "7.17.0",
-    "eslint": "8.14.0",
-    "eslint-config-prettier": "8.5.0",
-    "eslint-plugin-cypress": "2.12.1",
-    "eslint-plugin-prettier": "4.0.0",
-    "prettier": "2.6.2"
+    "@babel/eslint-parser": "7.25.1",
+    "eslint": "9.10.0",
+    "eslint-config-prettier": "9.1.0",
+    "eslint-plugin-cypress": "3.5.0",
+    "eslint-plugin-prettier": "5.2.1",
+    "prettier": "3.3.3"
   }
 }
